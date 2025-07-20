@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with adjustable DPI.",
+      "price": 25.99,
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "name": "Mechanical Keyboard",
+      "description": "RGB backlit mechanical keyboard with blue switches.",
+      "price": 89.99,
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "name": "USB-C Hub",
+      "description": "Multiport USB-C hub with HDMI and Ethernet.",
+      "price": 39.99,
+      "inStock": true
+    },
+    {
+      "id": "4",
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with deep bass.",
+      "price": 49.99,
+      "inStock": false
+    },
+    {
+      "id": "5",
+      "name": "Webcam 1080p",
+      "description": "Full HD webcam with built-in microphone.",
+      "price": 59.99,
+      "inStock": true
+    },
+    {
+      "id": "6",
+      "name": "Smartwatch",
+      "description": "Fitness tracking smartwatch with heart rate monitor.",
+      "price": 129.99,
+      "inStock": true
+    },
+    {
+      "id": "7",
+      "name": "External SSD",
+      "description": "1TB portable external SSD with USB 3.1.",
+      "price": 119.99,
+      "inStock": false
+    },
+    {
+      "id": "8",
+      "name": "Noise Cancelling Headphones",
+      "description": "Over-ear headphones with active noise cancellation.",
+      "price": 199.99,
+      "inStock": true
+    },
+    {
+      "name": "4K Monitor",
+      "description": "27-inch 4K UHD monitor with IPS panel.",
+      "price": 329.99,
+      "inStock": false,
+      "id": "9"
+    },
+    {
+      "inStock": true,
+      "id": "10"
+    },
+    {
+      "name": "VR Headset",
+      "description": "Virtual reality headset compatible with PC.",
+      "price": 399.99,
+      "inStock": true,
+      "id": "11"
+    }
+  ]
+}
